@@ -1,0 +1,6 @@
+﻿id,third_party,payment_group,min_payment,max_payment,transaction_rate
+2,Cubepay,vip-ip,500,50000,0.055
+4,SPpay,vip-ip,1000,50000,0.045
+6,JOIpay,best-ip,200,50000,0.053
+36,PayinYS,best-ip,50000,50000,0.08
+50,GPTpay,win-ip,100,1000,0.07
