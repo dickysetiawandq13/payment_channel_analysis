@@ -31,7 +31,7 @@ The data used in this project consists of three main tables:
 - `withdrawal_2025_xx`  
 - `online_recharge_third_party`  
 
-Each month, these tables collectively contain approximately **3 to 5 million rows**.
+Table online_recharge contains monthly deposit transaction data, withdrawal_2025 contains monthly withdrawal transaction data, and online_recharge_third_party contains information about deposit payment channel data. Each month, these tables collectively contain approximately **3 to 5 million rows**.
 
 *The diagram below illustrates the data structure and relationships. The withdrawal table is included for Power BI dashboard analysis but has no direct relationship with third-party providers*
 
