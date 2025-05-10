@@ -33,7 +33,7 @@ The data used in this project consists of three main tables:
 
 Each month, these tables collectively contain approximately **3 to 5 million rows**.
 
-*The diagram below illustrates the ERD of the raw SQL data structure, highlighting the key relationship between deposit transactions and third-party providers.*
+*The diagram below illustrates the data structure and relationships. The withdrawal table is included for Power BI dashboard analysis but has no direct relationship with third-party providers*
 
 ![ERD Diagram](./images/erd_diagram.png)  
 
