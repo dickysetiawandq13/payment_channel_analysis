@@ -58,19 +58,19 @@ To evaluate monthly performance, we track three **core KPIs**:
 
 These reflect **business growth** and **platform engagement**.  
 
-![Deposit, Withdrawal, New User Deposit KPI](./images/kpi_deposit_withdrawal_new_user.png)
+![Deposit, Withdrawal, New User Deposit KPI](./images/kpi_deposit_withdrawal_new_user.png?v=1)
 
 Additionally, we monitor two key **operational metrics**:
 - **Deposit Channel Success Rate**  
 - **Withdrawal Processing Time**
 
 These metrics directly affect **user experience**. While strong performance in these areas may not always guarantee growth, **poor results will lead to sharp declines** in both deposit volume and user acquisition.  
-![Success Rate, Processing Time](./images/kpi_success_rate_processing_time.png)
+![Success Rate, Processing Time](./images/kpi_success_rate_processing_time.png?v=1)
 
 👉 *Below is the main Dashboard page*  
 This is an [**interactive Power BI Dashboard** – Viewable Online *(no download required)*](https://app.powerbi.com/view?r=eyJrIjoiZDc0ZjU3MDYtODBjOC00MWU4LTlhNzEtMmMwOGU2MmY5N2M4IiwidCI6IjFjNWQyOWRjLTgzMDItNGE3YS04ODU4LTY1NzM5ZGY2ZWQyMyIsImMiOjEwfQ%3D%3D)
 
-![Main Dashboard View](./images/dashboard_main.png)
+![Main Dashboard View](./images/dashboard_main.png?v=1)
 
 ---
 
@@ -81,14 +81,14 @@ This is an [**interactive Power BI Dashboard** – Viewable Online *(no download
 - Withdrawals remained more stable but nearly converged with deposits in March (**₹331M vs ₹340M**), signaling a **drop in user trust** or **hesitation to deposit more**.  
 - Although deposits rebounded in April, the number of **new users depositing continued to decline**, from **83K in February to 55K in April**.  
 
-![Deposit & Withdrawal Trend Overview](./images/chart_deposit_withdrawal_trend_overview.png)
+![Deposit & Withdrawal Trend Overview](./images/chart_deposit_withdrawal_trend_overview.png?v=1)
 
 ## **Main Withdrawal Channel**
 - In February, **CDpay maintained its position** as the leading withdrawal channel, handling the **highest withdrawal amount** with a **median processing time of only 26 minutes**.  
 - In contrast, the other four major channels (**Cubepay, Melonpay, YVEpay, JOIpay**) showed significantly **slower processing times**, ranging from **241 to 683 minutes**.  
 - The performance gap shows **instability in February’s withdrawal channels** and sends a strong signal to **follow up with the third-party providers for improvement**.  
 
-![Main Withdrawal Channel](./images/chart_main_withdrawal_channel.png)
+![Main Withdrawal Channel](./images/chart_main_withdrawal_channel.png?v=1)
 
 ## **Main Deposit Channel**
 
@@ -98,7 +98,7 @@ This is an [**interactive Power BI Dashboard** – Viewable Online *(no download
 - Out of the five main payment channels used, only **CDpay and BBpay** achieved success rates above 50% (**55% and 52% respectively**).  
 - **BBpay was first tested in February**. In March, it showed consistency by maintaining a **success rate above 50%**.  
 
-![Main Deposit Channel](./images/chart_main_deposit_channel.png)
+![Main Deposit Channel](./images/chart_main_deposit_channel.png?v=1)
 
 ---
 
@@ -144,7 +144,7 @@ All channels shown have been **qualified and tested prior to inclusion**.
 **Transaction fee** is also considered to support **more cost-effective routing**.  
 These insights support **operational decisions in payment channel optimization**.  
 
-![Best Performing Deposit Channel](./images/chart_best_performing_deposit_channel.png)
+![Best Performing Deposit Channel](./images/chart_best_performing_deposit_channel.png?v=1)
 
 ---
 
