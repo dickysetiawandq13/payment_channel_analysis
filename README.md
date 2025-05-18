@@ -149,7 +149,7 @@ These insights support **operational decisions in payment channel optimization**
 ---
 
 # **Tools Used**
-- **PostgreSQL**: Data anonymization, extraction, cleaning, transformation, and KPI calculations  
-- **Power BI**: Interactive visuals to support clearer insight and decision-making
-- **Python**: Used Pandas to clean character encoding adjustments to ensure clean, compliant data for SQL processing
-- **VS Code**: Used for SQL script writing, markdown documentation, and project file management.
+- **PostgreSQL**: Data anonymization, extraction, cleaning, transformation, and KPI calculations.  
+- **Power BI**: Interactive visuals to support clearer insight and decision-making.
+- **Python**: Used Pandas to clean character encoding adjustments to ensure clean, compliant data for SQL processing.
+- **VS Code**: Used for DAX script writing, markdown documentation, and project file management.
