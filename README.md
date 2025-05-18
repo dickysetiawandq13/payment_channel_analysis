@@ -1,4 +1,4 @@
-# **Fantasy Sports Payment Channel Insights – Project Overview**
+# **Fantasy Sports Payment Channel Analysis – Project Overview**
 
 A fantasy sports platform, established in 2023, targeting the **Indian market**, where users join **paid contests daily**. The platform processes **frequent deposits and withdrawals** through third-party payment providers.
 
