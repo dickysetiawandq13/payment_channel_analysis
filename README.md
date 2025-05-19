@@ -97,6 +97,13 @@ This is an [**interactive Power BI Dashboard** – Viewable Online *(no download
 - Out of the five main payment channels used, only **CDpay and BBpay** achieved success rates above 50% (**55% and 52% respectively**).  
 - **BBpay was first tested in February**. In March, it showed consistency by maintaining a **success rate above 50%**.  
 
+## **Actionable Insights from Dashboard**
+![Best Performing Deposit Channel](./images/chart_best_performing_deposit_channel.png?v=1)  
+The key areas below highlight **deposit channels that meet minimum performance criteria** based on **success rate**.  
+All channels shown have been **qualified and tested prior to inclusion**.  
+**Transaction fee** is also considered to support **more cost-effective routing**.  
+These insights support **operational decisions in payment channel optimization**. 
+
 ---
 
 # **Recommendations & Key Achievements**
@@ -131,15 +138,6 @@ This section highlights key decisions from **February–April** and outlines **n
   - 55% in March  
   - 56% in April  
   In addition, it has delivered the **fastest or near-fastest withdrawal processing times** each month since January 2025, ranging between **24 and 75 minutes**, significantly outperforming other major providers, which often took between **80 and 683 minutes**.
-
----
-
-# **Actionable Insights from Dashboard**
-![Best Performing Deposit Channel](./images/chart_best_performing_deposit_channel.png?v=1)  
-The key areas below highlight **deposit channels that meet minimum performance criteria** based on **success rate**.  
-All channels shown have been **qualified and tested prior to inclusion**.  
-**Transaction fee** is also considered to support **more cost-effective routing**.  
-These insights support **operational decisions in payment channel optimization**.  
 
 ---
 
