@@ -77,28 +77,25 @@ This is an [**interactive Power BI Dashboard** – Viewable Online *(no download
 # **Insight Deep Dive**
 
 ## **Deposit & Withdrawal Trend Overview**
+![Deposit & Withdrawal Trend Overview](./images/chart_deposit_withdrawal_trend_overview.png?v=1)
 - Deposits dropped from **₹433M in January** to a low of **₹340M in March** before rebounding slightly in April.  
 - Withdrawals remained more stable but nearly converged with deposits in March (**₹331M vs ₹340M**), signaling a **drop in user trust** or **hesitation to deposit more**.  
 - Although deposits rebounded in April, the number of **new users depositing continued to decline**, from **83K in February to 55K in April**.  
 
-![Deposit & Withdrawal Trend Overview](./images/chart_deposit_withdrawal_trend_overview.png?v=1)
-
 ## **Main Withdrawal Channel**
+![Main Withdrawal Channel](./images/chart_main_withdrawal_channel.png?v=1)
 - In February, **CDpay maintained its position** as the leading withdrawal channel, handling the **highest withdrawal amount** with a **median processing time of only 26 minutes**.  
 - In contrast, the other four major channels (**Cubepay, Melonpay, YVEpay, JOIpay**) showed significantly **slower processing times**, ranging from **241 to 683 minutes**.  
 - The performance gap shows **instability in February’s withdrawal channels** and sends a strong signal to **follow up with the third-party providers for improvement**.  
-
-![Main Withdrawal Channel](./images/chart_main_withdrawal_channel.png?v=1)
 
 ## **Main Deposit Channel**
 
 > **Note**: Deposit channels are grouped into four capacity categories: **All, Large, Medium, and Small**, based on each third-party provider's ability to handle different transaction volumes. In this section, we focus on **All Transaction Sizes** as it is the primary focus for performance monitoring.
 
+![Main Deposit Channel](./images/chart_main_deposit_channel.png?v=1)
 - In March, **Melonpay had the highest total deposit volume** but only achieved a **49% success rate**, falling short of the **50% benchmark**.  
 - Out of the five main payment channels used, only **CDpay and BBpay** achieved success rates above 50% (**55% and 52% respectively**).  
 - **BBpay was first tested in February**. In March, it showed consistency by maintaining a **success rate above 50%**.  
-
-![Main Deposit Channel](./images/chart_main_deposit_channel.png?v=1)
 
 ---
 
@@ -138,13 +135,11 @@ This section highlights key decisions from **February–April** and outlines **n
 ---
 
 # **Actionable Insights from Dashboard**
-
+![Best Performing Deposit Channel](./images/chart_best_performing_deposit_channel.png?v=1)  
 The key areas below highlight **deposit channels that meet minimum performance criteria** based on **success rate**.  
 All channels shown have been **qualified and tested prior to inclusion**.  
 **Transaction fee** is also considered to support **more cost-effective routing**.  
 These insights support **operational decisions in payment channel optimization**.  
-
-![Best Performing Deposit Channel](./images/chart_best_performing_deposit_channel.png?v=1)
 
 ---
 
