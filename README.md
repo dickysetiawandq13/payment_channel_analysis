@@ -122,9 +122,9 @@ This section highlights key decisions from **February–April** and outlines **n
 
 - **Rebuild user trust and acquisition momentum post-February**  
   Following severe withdrawal delays in February, player trust declined significantly, leading to a drop in both deposit volume and new user activity.  
-  To retain our existing user base, we launched an apology and compensation bonus campaign via telemarketing, which received **More Than 80% positive response rate** from contacted users, based on call feedback and bonus delivery, and succesfully retained over 60% of our existing user base.
-  This was followed by an acquisition campaign in partnership with an influencer, launched in March to reaccelerate user growth and support overall deposit volume recovery.  
-  We are actively monitoring the registration-to-deposit conversion funnel to sustain recovery efforts going forward.
+  To retain our existing user base, we launched an apology and compensation bonus campaign via telemarketing, which received over 80% positive response rate from contacted users, based on call feedback and bonus delivery — successfully retaining more than 60% of our existing players.
+  This was followed by an acquisition campaign in partnership with an influencer, launched in March to reaccelerate user growth and support overall deposit volume recovery.
+  **As of May 2025, the influencer recovery campaign has increased the revenue-generating user base by 30%**.
 
 - **Maximize BBpay Deposit Channel utilization**  
   After promising test results conducted in February, we focused on BBpay in March.  
