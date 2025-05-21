@@ -39,7 +39,7 @@ Table online_recharge contains monthly deposit transaction data, withdrawal_2025
 
 *The screenshot below shows the Power BI semantic model, which is built on top of the raw SQL queries. It helps organize the information so it's easier to track monthly performance, success rates, and processing times.*
 
-![Power BI Semantic Model](./images/powerbi_semantic_model.png)  
+![Power BI Semantic Model](./images/powerbi_semantic_model.png?v=1)  
 
 ---
 
