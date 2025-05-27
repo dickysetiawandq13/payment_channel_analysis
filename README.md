@@ -1,6 +1,6 @@
-# **Fantasy Sports Payment Channel Analysis – Project Overview**
+# **Fintech Platform Payment Channel Analysis - Project Overview**
 
-A fantasy sports platform, established in 2023, targeting the **Indian market**, where users join **paid contests daily**. The platform processes **frequent deposits and withdrawals** through third-party payment providers.
+A **B2C fintech platform launched in 2023 targeting the Indian market**, where users engage in **gamified financial activities** such as promotional campaigns and time-sensitive offers. Users frequently top up and withdraw funds using third-party payment channels.
 
 This dashboard has been in use since 2023 to evaluate the performance of payment channels for deposits and withdrawals, **it has contributed to over $1 million in operational cost savings since the platform launch.**
 
@@ -121,8 +121,8 @@ Withdrawal channels, on the other hand, are not categorized. We typically use th
 This section highlights key decisions from **February–April** and outlines **next steps for May 2025**:
 
 - **Rebuild user trust and acquisition momentum post-February**  
-  Following severe withdrawal delays in February, player trust declined significantly, leading to a drop in both deposit volume and new user activity.  
-  To retain our existing user base, we launched an apology and compensation bonus campaign via telemarketing, which received over 80% positive response rate from contacted users, based on call feedback and bonus delivery — successfully retaining more than 60% of our existing players.
+  Following severe withdrawal delays in February, user trust declined significantly, leading to a drop in both deposit volume and new user activity.  
+  To retain our existing user base, we launched an apology and compensation bonus campaign via telemarketing, which received over 80% positive response rate from contacted users, based on call feedback and bonus delivery — successfully retaining more than 60% of our existing users.
   This was followed by an acquisition campaign in partnership with an influencer, launched in March to reaccelerate user growth and support overall deposit volume recovery.  
   **As of May 2025, the influencer recovery campaign has increased the revenue-generating user base by 30%**.
 
