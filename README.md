@@ -86,7 +86,7 @@ This is an [**interactive Power BI Dashboard** – Viewable Online *(no download
 ![Main Withdrawal Channel](./images/chart_main_withdrawal_channel.png?v=1)
 - In February, **CDpay maintained its position** as the leading withdrawal channel, handling the **highest withdrawal amount with a median processing time of only 26 minutes**.  
 - In contrast, the other four major channels (**Cubepay, Melonpay, YVEpay, JOIpay**) showed significantly **slower processing times, ranging from 241 to 683 minutes**.  
-- The performance gap shows **instability in February’s withdrawal channels** and sends a strong signal to **follow up with the third-party providers for improvement**.  
+- This performance gap highlights critical instability and reinforces the need to escalate issues with underperforming providers.  
 
 ## **Main Deposit Channel**
 
@@ -99,10 +99,9 @@ This is an [**interactive Power BI Dashboard** – Viewable Online *(no download
 
 ## **Actionable Insights from Dashboard**
 ![Best Performing Deposit Channel](./images/chart_best_performing_deposit_channel.png?v=1)  
-The key areas below highlight **deposit channels that meet minimum performance criteria based on success rate**.  
-All channels shown have been **qualified and tested prior to inclusion**.  
-**Transaction fee** is also considered to support **more cost-effective routing**.  
-These insights support **operational decisions in payment channel optimization**. 
+The deposit channels shown below were tested through structured A/B or A/B/C cycles to benchmark performance under live conditions using the same user cohort.  
+**All PSP met minimum success rate thresholds and offered competitive transaction fees**.  
+While these channels were technically qualified, final deployment decisions also considered backend feasibility—such as API integration reliability, settlement speed, customer support responsiveness, and service uptime.  
 
 ---
 
