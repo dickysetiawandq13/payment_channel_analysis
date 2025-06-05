@@ -4,7 +4,7 @@ A **B2C fintech platform launched in 2023 targeting the Indian market**, where u
 
 This dashboard has been in use since 2023 to evaluate the performance of payment channels for deposits and withdrawals, **it has contributed to over $1 million in operational cost savings since the platform launch.**
 
-It is actively used in **monthly internal performance review meetings** with the Platform Owner, Operations Manager, Finance Lead, Promotion Coordinator, and Payment Channel Coordinator to support strategic decisions and performance improvements.
+It is actively used in **monthly internal performance review meetings** with the Platform Owner, Site Manager, Finance Lead, Promotion Coordinator, and Payment Channel Coordinator to support strategic decisions and performance improvements.
 
 The version presented here showcases the 2025 reporting and analysis, with the goal of **improving financial infrastructure reliability and optimizing channel usage**.
 
